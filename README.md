@@ -17,7 +17,7 @@ JCSP (Jaherhum's Clean Switch Pack) is a carefully selected collection of essent
 
 ## Getting Started
 
-1. Download the latest release from the [Releases](https://github.com/tu_usuario/JCSP/releases) section.
+1. Download the latest release from the [Releases](https://github.com/jaherhum/JCSP/releases) section.
 2. (Optional) Back up your `/atmosphere` and `/bootloader` folders before installing.
 3. Extract the contents directly to the root of your SD card.
 
@@ -32,17 +32,17 @@ JCSP (Jaherhum's Clean Switch Pack) is a carefully selected collection of essent
 
 ## Changelog
 
-Check the [Releases](https://github.com/tu_usuario/JCSP/releases) section for version history and release notes for each update.
+Check the [Releases](https://github.com/jaherhum/JCSP/releases) section for version history and release notes for each update.
 
 ## Support
 
-For questions, issues, or suggestions, please open an [issue](https://github.com/tu_usuario/JCSP/issues) in this repository.
+For questions, issues, or suggestions, please open an [issue](https://github.com/jaherhum/JCSP/issues) in this repository.
 
 ## Support My Work
 
 If you find this project useful, consider supporting me:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tu_usuario)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jaherhum)
 
 ## Credits
 
